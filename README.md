@@ -18,16 +18,28 @@
   </a>
 </div>
 
+---
 
+# Hellurrr 👋
 
-## Hellurrr 👋
+I'm Zane Garvey!
 
-### About me
+## About me
 
-- I am a student at Oregon State University currently studying Computer Science (as I'm sure you could imagine)
-- 
+I am a student at Oregon State University currently studying... Computer Science (as I'm sure you could imagine)
 
+When I am not at my desk coding, I like to be creative in other ways, typically outside:
+- I love playing the guitar (acoustic **and** electric) 🎸🎵
+- I enjoy fishing, expecially with friends! 🎣
+- I love dirt biking 🏍️ and snowboarding 🏂🏔️
+- I'm really into learning about and researching (and wearing!) watches ⌚
+- I am a **HUGE** MMA fan and I train Brazilian Jiu-Jitsu 🥋
+- I have always been into working out and even own my **own** supplement business 🏋️
 
+## What I'm Currently Learning 💻
+- CS 271 Computer Architecture and Assembly Language
+- CS 290 Web Development
+- Studying for COMPTIA Sec+ and Google Cybersecurity+
 
 
 <div id="languages" align="center">
