@@ -10,8 +10,9 @@
     <img src="https://img.shields.io/badge/devpost-darkblue?logo=devpost&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
   </a>
 </div>
-
-<img src="https://komarev.com/ghpvc/?HackerManOSU&style=flat-square&color=blue" alt=""/>
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?HackerManOSU&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 ## Hellurrr 👋
