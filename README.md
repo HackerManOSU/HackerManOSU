@@ -4,7 +4,7 @@
 
 <div id="views" align="center">
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-      <img src="https://komarev.com/ghpvc/?username=HackerManOSU&style=flat&base=800&color=green">
+      <img src="https://komarev.com/ghpvc/?username=HackerManOSU&style=for-the-badge&base=800&color=green">
   </a>
 </div>
 
