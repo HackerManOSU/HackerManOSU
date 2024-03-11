@@ -61,7 +61,7 @@ When I am not at my desk coding, I like to be creative in other ways, typically 
 
 <div id="languages" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackerManOSU&size_weight=0.25&count_weight=.75&layout=compact&hide=html,css,makefile">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackerManOSU&size_weight=0.1&count_weight=.9&layout=compact&hide=css,html,makefile,ejs">
   </a>
 </div>
 
