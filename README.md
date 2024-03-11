@@ -42,11 +42,14 @@ When I am not at my desk coding, I like to be creative in other ways, typically 
 - Studying for COMPTIA Sec+ and Google Cybersecurity+
 
 
+---
+
 <div id="languages" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackerManOSU&size_weight=0.5&count_weight=0.5&hide=html,css&layout=compact">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackerManOSU&size_weight=0.25&count_weight=.75&hide=html,css&layout=compact">
   </a>
 </div>
+
 <!--
 **HackerManOSU/HackerManOSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
