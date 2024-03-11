@@ -11,6 +11,9 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?HackerManOSU&style=flat-square&color=blue" alt=""/>
+
+
 ## Hellurrr 👋
 
 ### About me
