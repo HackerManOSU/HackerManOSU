@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="linkedin-url">
+  <a href="https://www.linkedin.com/in/zane-garvey/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="devpost-url">
+  <a href="https://devpost.com/zanegarvey503?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
     <img src="https://img.shields.io/badge/devpost-darkblue?logo=devpost&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
   </a>
 </div>
