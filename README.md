@@ -51,9 +51,10 @@ When I am not at my desk coding, I like to be creative in other ways, typically 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## What I'm Currently Learning 💻
-- CS 271 Computer Architecture and Assembly Language
-- CS 290 Web Development
+## Classes I'm Currently Taking 💻
+- Computer Architecture and Assembly Language
+- Web Development
+- Data Structures and Algorithms
 - Studying for COMPTIA Sec+ and Google Cybersecurity+
 
 
