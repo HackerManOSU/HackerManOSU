@@ -57,9 +57,9 @@ Having hobbies is almost a hobby of mine in itself. I think it allows me to conn
 </div>
 
 ## Classes I'm Currently Taking 💻
-- Softwarer Engineering 2 (CS 362)
-- Introduction to Computer Networks (CS 372)
-- Programming Language Fundamentals (CS 381)
+- Cloud Application Development
+- Senior Capstone
+- Usability Engineering (UX)
 
 
 ---
