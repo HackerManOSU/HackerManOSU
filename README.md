@@ -57,9 +57,10 @@ Having hobbies is almost a hobby of mine in itself. I think it allows me to conn
 </div>
 
 ## Classes I'm Currently Taking 💻
-- Cloud Application Development
+- Mobile Application Development
+- Advanced Web Development
+- Database Management Systems
 - Senior Capstone
-- Usability Engineering (UX)
 
 
 ---
