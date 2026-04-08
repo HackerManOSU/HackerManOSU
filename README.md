@@ -57,9 +57,9 @@ Having hobbies is almost a hobby of mine in itself. I think it allows me to conn
 </div>
 
 ## Classes I'm Currently Taking 💻
-- Mobile Application Development
-- Advanced Web Development
-- Database Management Systems
+- Parallel Programming
+- Ethics in Computer Science
+- System Administration
 - Senior Capstone
 
 
